@@ -2,17 +2,17 @@
 
 ### Cut, copy, delete line
 
--**cut** : ctrl + X
+- **cut** : ctrl + X
 
--**copy** : ctrl + C
+- **copy** : ctrl + C
 
--**copy line above** : alt + shift + up
+- **copy line above** : alt + shift + up
 
--**copy line down** : alt + shift + down
+- **copy line down** : alt + shift + down
 
--**paste** : ctrl + V
+- **paste** : ctrl + V
 
--**delete** : ctrl + shift + K
+- **delete** : ctrl + shift + K
 
 ### Select, insertline line
 
