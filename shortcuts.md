@@ -41,3 +41,7 @@
 - **add selection to next find match** : ctrl + D
 
 - **move last selection to next find match** : ctrl + K, ctrl + D
+
+- **select all occurrences of current selection** : ctrl + shift + L
+
+- **select all occurrences of current word** : ctrl + F2
