@@ -1,4 +1,4 @@
-# vs_code_keyboard_shortcuts
+# VS code keyboard shortcuts
 
 ### Cut, copy, delete line
 
